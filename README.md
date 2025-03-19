@@ -50,12 +50,5 @@ This project focuses on detecting and correcting text inconsistencies in large-s
 
 ---
 
-## 🔮 Future Enhancements
-- **🌍 Multilingual Support**: Extend the system to handle inconsistencies in multiple languages.
-- **☁️ Cloud Integration**: Deploy the system on AWS/Azure for scalable real-time processing.
-- **📊 Advanced Visualization**: Implement interactive dashboards with AI-driven insights.
-
----
-
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
