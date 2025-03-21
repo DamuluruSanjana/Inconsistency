@@ -21,8 +21,8 @@ This project focuses on detecting and correcting text inconsistencies in large-s
 - **📦 Big Data Frameworks**: Apache Hadoop, Apache Spark
 - **📚 NLP Libraries**: NLTK, spaCy, Gensim, Hugging Face Transformers
 - **🧠 Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **📈 Visualization**: Matplotlib, Tableau, Kibana
-- **🖥️ Frontend**: React.js, Streamlit, Gradio
+- **📈 Visualization**: Matplotlib
+- **🖥️ Frontend**:  Gradio
 
 ---
 
