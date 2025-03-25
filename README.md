@@ -35,7 +35,7 @@ A scalable text analysis system using **Apache Spark** and **Hadoop** to detect 
 - **Scalable** for large datasets  
 - **Interactive reports** with trends & corrections  
 
-🔗 ** Download & Try it now!**
+✨Try it now! 
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
