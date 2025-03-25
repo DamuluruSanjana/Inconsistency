@@ -1,7 +1,6 @@
 # Inconsistency
 
-# 📊 Incremental Detection of Text Inconsistencies in Big Data
-# 🔍 Incremental Detection of Text Inconsistencies using Big Data  
+# 📊 Incremental Detection of Text Inconsistencies using Big Data
 
 ## 🚀 Overview  
 A scalable text analysis system using **Apache Spark** and **Hadoop** to detect and correct inconsistencies (formatting, conflicts, duplicates, anomalies) in large datasets.  
