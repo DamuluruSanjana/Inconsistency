@@ -40,18 +40,12 @@ A scalable text analysis system using **Apache Spark** and **Hadoop** to detect 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+Demo video for Visualization
 
+https://github.com/user-attachments/assets/43491a56-caaf-489e-87a1-d462e1ea2abf
 
-
-
-
-
-
-
-
-
-
-
-Output Demo for Performance metrics
+Demo video for Performance metrics
 
 https://github.com/user-attachments/assets/0be14eb1-2b6e-4db9-b7e4-4f09d4d43fbf
+
+
