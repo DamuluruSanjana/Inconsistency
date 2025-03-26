@@ -22,7 +22,8 @@ A scalable text analysis system using **Apache Spark** and **Hadoop** to detect 
 📁 Poster | PPT | Report  
 📁 Code  
   └── INCONSISTENCY_Full_Code.py  
-  └── inconsistency_main_code.py  
+  └── inconsistency_main_code.py
+  └──README.md
 ```  
 
 ## 🚀 How to Use  
