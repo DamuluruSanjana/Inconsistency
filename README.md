@@ -15,7 +15,8 @@ A scalable text analysis system using **Apache Spark** and **Hadoop** to detect 
 - **Apache Spark** (processing)  
 - **Hadoop** (storage)  
 - **Gradio** (UI)  
-- **Matplotlib** (visualization)  
+- **Matplotlib** (visualization)
+- **Pandas**
 
 ## 📂 Project Structure  
 ```
